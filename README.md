@@ -1,1 +1,0 @@
-# GameMakerStudio2Examples
