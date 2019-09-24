@@ -55,11 +55,35 @@
             }
         },
         {
+            "Key": "2f352aa4-ab65-413b-afa0-e4f8ac35d63a",
+            "Value": {
+                "id": "1f3ae600-34ba-44a9-9359-a7664f02e9b4",
+                "resourcePath": "sprites\\icons8_target_100\\icons8_target_100.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ee4956b-ed60-44ed-9d36-9c0fc4474c48",
             "Value": {
                 "id": "b989ad51-9417-46f6-a6ba-e42b8eac9d8f",
                 "resourcePath": "views\\3ee4956b-ed60-44ed-9d36-9c0fc4474c48.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "60746aa2-f757-498c-9f73-6f9a6fec4899",
+            "Value": {
+                "id": "c5de020b-7861-4e61-ab34-38b8233eb248",
+                "resourcePath": "objects\\MainController\\MainController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "612b0bb9-04b5-4325-8ac2-6ec7ed7f965b",
+            "Value": {
+                "id": "95fe5cc8-e9d8-45ae-9b94-8f809db02a38",
+                "resourcePath": "objects\\ViewController\\ViewController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -84,6 +108,14 @@
                 "id": "6596dd3a-e264-44e5-819d-3e4be5181aa5",
                 "resourcePath": "views\\8f6fb958-2252-49f1-863b-c340b1b38d49.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "943e075b-5774-4617-b189-fca4967b31da",
+            "Value": {
+                "id": "49a28b1e-0bec-4e0d-b27d-33c07ca6eb5d",
+                "resourcePath": "scripts\\draw_rect_border\\draw_rect_border.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -170,7 +202,7 @@
             "Key": "e8e8a790-d0f2-4feb-976b-c6ff3ce2e1e1",
             "Value": {
                 "id": "e746af8d-859b-45c3-a08f-acbfc84f9342",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Minimap\\Minimap.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -189,10 +221,18 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "fca9b103-bbc2-410d-805a-385c7a8a5879",
+            "Value": {
+                "id": "c7f4d8ef-e49f-4253-b3a7-2ef5ee85429f",
+                "resourcePath": "sprites\\combined_worldmap_wc_3800\\combined_worldmap_wc_3800.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
-        
+        "943e075b-5774-4617-b189-fca4967b31da"
     ],
     "tutorial": ""
 }
