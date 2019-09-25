@@ -1,5 +1,5 @@
 # Game Maker Studio 2 D.A.
-<br/>
+
 ## Minimap
 
 ### Credits
