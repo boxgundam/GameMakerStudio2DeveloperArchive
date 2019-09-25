@@ -1,6 +1,6 @@
 # Game Maker Studio 2 D.A.
 
-## Overview
+## Scripts
 
-### Overview
-- Game Maker Studio 2 example projects, snippets and test scripts shared with the net.
+
+A collection of reusable GML scripts
